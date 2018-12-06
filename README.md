@@ -1,0 +1,1 @@
+This is the repository for codes related to lecture notes from [Coursera Scala Course:Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1/home/welcome) by Martin Odersky.
